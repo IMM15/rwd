@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outline>
+ <l c="mnu_obj" u="siteWebResponsive.html" t="Objectifs"/>
+ <b c="mnu_ueDiv" u="siteWebResponsive_1.html" t="Grilles fluides">
+  <b c="mnu_courseUa" u="siteWebResponsive_2.html" t="Les grilles avec Bootstrap">
+   <l c="mnu_intro" u="siteWebResponsive_7.html" t="Introduction"/>
+   <l c="mnu_expUc" u="siteWebResponsive_8.html" t="La base à utiliser"/>
+   <l c="mnu_expUc" u="siteWebResponsive_9.html" t="Organisation du code"/>
+   <l c="mnu_expUc" u="siteWebResponsive_10.html" t="Largeur des colonnes"/>
+   <l c="mnu_expUc" u="siteWebResponsive_11.html" t="Pousser/espacer des colonnes"/>
+   <l c="mnu_expUc" u="siteWebResponsive_12.html" t="Prise en compte de la largeur de l'écran"/>
+   <l c="mnu_practUc" u="siteWebResponsive_13.html" t="Exercice : Mise en pratique"/>
+  </b>
+  <b c="mnu_courseUa" u="siteWebResponsive_14.html" t="Les Grilles en float : left">
+   <l c="mnu_expUc" u="siteWebResponsive_15.html" t="Les pourcentages obligatoires"/>
+   <l c="mnu_expUc" u="siteWebResponsive_16.html" t="calc() à la rescousse"/>
+  </b>
+  <b c="mnu_courseUa" u="siteWebResponsive_17.html" t="Les grilles du futur : le modèle flexbox">
+   <l c="mnu_expUc" u="siteWebResponsive_18.html" t="Sources web"/>
+   <l c="mnu_expUc" u="siteWebResponsive_19.html" t="Les grilles du futur : le modèle flex"/>
+  </b>
+  <l c="mnu_conclu" u="siteWebResponsive_20.html" t="Conclusion"/>
+ </b>
+ <b c="mnu_ueDiv" u="siteWebResponsive_3.html" t="Media Queries">
+  <l c="mnu_expUc" u="siteWebResponsive_4.html" t="Un principe vieux comme le CSS"/>
+  <l c="mnu_expUc" u="siteWebResponsive_21.html" t="Les media Queries CSS3"/>
+  <l c="mnu_expUc" u="siteWebResponsive_22.html" t="Device Breakpoint or not ?"/>
+  <l c="mnu_practUc" u="siteWebResponsive_23.html" t="Exercice : Mise en Application _ Pas à Pas"/>
+ </b>
+ <b c="mnu_ueDiv" u="siteWebResponsive_5.html" t="Image adaptatives">
+  <l c="mnu_expUc" u="siteWebResponsive_6.html" t="Une image qui se redimensionne"/>
+  <b c="mnu_courseUa" u="siteWebResponsive_24.html" t="Charger la bonne image pour le bon écran">
+   <l c="mnu_expUc" u="siteWebResponsive_25.html" t="Le problème : Une image pour plusieurs écrans"/>
+  </b>
+ </b>
+</outline>
